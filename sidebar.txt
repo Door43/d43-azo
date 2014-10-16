@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[azo:home|Door43 (azo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-azo|d43-azo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-azo/archive/master.zip|d43-azo.zip]]
+
+**Recent Changes**
+{{changes>ns = azo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/azo|Ethnologue data]]
+
